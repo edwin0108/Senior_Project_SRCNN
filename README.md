@@ -6,7 +6,7 @@ Tensorflow implementation of Convolutional Neural Networks for super-resolution.
 
 ## Documentation
 
-[Click here](https://github.com/edwin0108/Senior_Project_SRCNN/tree/master/Doc) for more information of our project. 
+[Click here](https://github.com/edwin0108/Senior_Project_SRCNN/tree/master/doc) for more information of our project. 
 
 
 
