@@ -17,3 +17,6 @@ Tensorflow implementation of Convolutional Neural Networks for super-resolution.
 
 
 
+## Dataset
+
+For now, please use `91-images` as our train dataset and `set5` as our validation dataset as they are  relatively small (you can find them at data folder). We will use `DIV2K` dataset for final evaluation.
