@@ -12,7 +12,7 @@ Tensorflow implementation of Convolutional Neural Networks for super-resolution.
 
 ## Prerequisites
 
-- Python 3.5.x (since Tensorflow-gpu only support up to python 3.5.x)
+- Python 3.5.x (since `Tensorflow-gpu` only support up to python 3.5.x)
 - Tensorflow.Keras ([click here to learn about tensorflow.keras](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/keras.ipynb#scrollTo=9NR6reyk0E2A) and [click here for keras documentation](https://keras.io/))
 
 
