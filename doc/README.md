@@ -11,3 +11,7 @@
     * [SRCNN-keras](https://github.com/MarkPrecursor/SRCNN-keras)
 * Setting up a cloud machine
     * [Practical Deep Learning for Coders](https://course.fast.ai/index.html)
+* Normalizating your data
+    * [Normalizing your data (specifically, input and batch normalization)](https://www.jeremyjordan.me/batch-normalization/)
+    * [Why does Batch Norm work?](https://www.coursera.org/lecture/deep-neural-network/why-does-batch-norm-work-81oTm)
+    * [Batch Norm at test time](https://www.coursera.org/lecture/deep-neural-network/batch-norm-at-test-time-FsoNw)
