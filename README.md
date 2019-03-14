@@ -1,7 +1,8 @@
 # Senior_Project_SRCNN
 
-Tensorflow implementation of Convolutional Neural Networks for super-resolution. Base on paper [Learning a Deep Convolutional Network for Image Super-Resolution](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf)
-
+Tensorflow implementation of Convolutional Neural Networks for super-resolution. Base on paper:
+  * [Learning a Deep Convolutional Network for Image Super-Resolution](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf)
+  * [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
 
 
 ## Documentation
